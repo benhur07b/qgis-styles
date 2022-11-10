@@ -1,6 +1,8 @@
-Style patches for the 17 regions in the Philippines (as of 2020).
+# Style patches for the 17 regions in the Philippines (as of 2020).
 
 Patches from simplified administrative boundary vector files (GADM).
+
+![Example](img.png "Example of the patches")
 
 **HOW TO USE**
 
